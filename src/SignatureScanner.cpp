@@ -2,7 +2,7 @@
 // Created by Vlad on 28.09.2023.
 //
 
-#include "SignatureScanner.h"
+#include "sigscanner/ModuleScanner.h"
 
 namespace signature_scanner
 {
