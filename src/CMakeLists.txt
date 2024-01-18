@@ -1,0 +1,1 @@
+target_sources(signature_scanner PRIVATE SignatureScanner.cpp ModuleScanner.cpp)
